@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Record App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="accessibility_service_label">Record service</string>
+    <string name="accessibility_service_description">this is Record accessibility service, it record calls on samsung apps</string>
+
+    <string name="accessibility_dialog_title">please enable accessibility</string>
+    <string name="accessibility_dialog_message">this app need accessibility to control the record of samsung phones</string>
+    <string name="accessibility_dialog_positive">go to Accessibility Settings</string>
+</resources>
